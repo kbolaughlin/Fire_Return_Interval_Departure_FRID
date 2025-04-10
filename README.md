@@ -20,12 +20,12 @@ Citation:  Safford, H.D., K. van de Water, and C. Clark. 2020. California Fire R
  
 RRK_Raster_FRID_scripts
 This set of scripts dissolves the following FRID fields from the polygon layer into standalone rasters for use in the Regional Resource Kit (https://caregionalresourcekits.org/clm.html#fire_dyn ).
-TSLF
-currentFRI
-currentFRI_1970
-meanPFRID
-meanPFRID_1970
-maxPFRID
-medianPFRID
-minPFRID
-meanCC_FRI
+- TSLF
+- currentFRI
+- currentFRI_1970
+- meanPFRID
+- meanPFRID_1970
+- maxPFRID
+- medianPFRID
+- minPFRID
+- meanCC_FRI
