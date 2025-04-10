@@ -18,7 +18,7 @@ NPS_FRID_Index - National Park Service FRID index
  
 Citation:  Safford, H.D., K. van de Water, and C. Clark. 2020. California Fire Return Interval Departure (FRID) map, 2019 version. USDA Forest Service, Pacific Southwest Region, Sacramento and Vallejo, CA
  
-RRK_Raster_FRID_scripts
+## RRK_Raster_FRID_scripts
 This set of scripts dissolves the following FRID fields from the polygon layer into standalone rasters for use in the Regional Resource Kit (https://caregionalresourcekits.org/clm.html#fire_dyn ).
 - TSLF
 - currentFRI
